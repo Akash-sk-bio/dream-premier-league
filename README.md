@@ -26,7 +26,7 @@ The quiz data is collected manually based on user responses to the following que
 
 ## 🧰 Project Structure
 dream-premier-league/
-├── Dream_Premier_Cleaned.ipynb
+├── Dream_Premier.ipynb
 ├── requirements.txt
 ├── .gitignore
 └── README.md
