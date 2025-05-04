@@ -46,6 +46,6 @@ Model Accuracy: 85%
 🏆 Future Enhancements
 Deploy this as a web app or quiz interface using Streamlit.
 
-Expand dataset with more user inputs and team labels.
+Expand the dataset with more user inputs and team labels.
 
 Include more IPL teams and advanced NLP-based answer processing.
